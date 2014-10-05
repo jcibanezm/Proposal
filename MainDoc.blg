@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/MacPorts 2012_5)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: MainDoc.aux
+The style file: aa.bst
+Database file #1: MainDoc.bib
+Warning--I didn't find a database entry for "Bouchout2010"
+Warning--I didn't find a database entry for "paramesh"
+Warning--empty journal in Daley2012
+You've used 30 entries,
+            2947 wiz_defined-function locations,
+            855 strings with 11163 characters,
+and the built_in function-call counts, 16457 in all, are:
+= -- 1342
+> -- 1480
+< -- 10
++ -- 489
+- -- 459
+* -- 1441
+:= -- 3043
+add.period$ -- 30
+call.type$ -- 30
+change.case$ -- 272
+chr.to.int$ -- 30
+cite$ -- 31
+duplicate$ -- 570
+empty$ -- 796
+format.name$ -- 556
+if$ -- 3237
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 29
+newline$ -- 94
+num.names$ -- 121
+pop$ -- 289
+preamble$ -- 1
+purify$ -- 272
+quote$ -- 0
+skip$ -- 489
+stack$ -- 0
+substring$ -- 641
+swap$ -- 8
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 270
+warning$ -- 1
+while$ -- 121
+width$ -- 0
+write$ -- 302
+(There were 3 warnings)

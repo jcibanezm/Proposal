@@ -1,0 +1,128 @@
+\begin{thebibliography}{30}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Bate}(2009)}]{Bate2009}
+{Bate}, M.~R. 2009, \mnras, 397, 232
+
+\bibitem[{{Bate} {et~al.}(1995){Bate}, {Bonnell}, \& {Price}}]{Bate95}
+{Bate}, M.~R., {Bonnell}, I.~A., \& {Price}, N.~M. 1995, \mnras, 277, 362
+
+\bibitem[{{Dale} {et~al.}(2014){Dale}, {Ngoumou}, {Ercolano}, \&
+  {Bonnell}}]{Dale2014}
+{Dale}, J.~E., {Ngoumou}, J., {Ercolano}, B., \& {Bonnell}, I.~A. 2014, \mnras,
+  442, 694
+
+\bibitem[{{Daley} {et~al.}(2012){Daley}, {Vanella}, {Dubey}, {Weide}, \&
+  {Balaras}}]{Daley2012}
+{Daley}, C., {Vanella}, M., {Dubey}, S., {Weide}, K., \& {Balaras}, E. 2012,
+  24, 2346
+
+\bibitem[{{Dalgarno} \& {McCray}(1972)}]{Dalgarno&McCray1972}
+{Dalgarno}, A. \& {McCray}, R.~A. 1972, \araa, 10, 375
+
+\bibitem[{{de Avillez} \& {Breitschwerdt}(2004)}]{Avillez&Breitschwerdt2004}
+{de Avillez}, M.~A. \& {Breitschwerdt}, D. 2004, \aap, 425, 899
+
+\bibitem[{{Dubey} {et~al.}(2014){Dubey}, {Antypas}, {Calder}, {Daley},
+  {Fryxell}, {Gallagher}, {Lamb}, {Lee}, {Olson}, {Reid}, {Rich}, {Ricker},
+  {Riley}, {Rosner}, {Siegel}, {Taylor}, {Weide}, {Timmes}, {Valdimirova}, \&
+  {ZuHone}}]{FlashPerformance}
+{Dubey}, A., {Antypas}, K., {Calder}, A.~C., {et~al.} 2014, International
+  Journal of High Performance Computing Applications, 28, 225
+
+\bibitem[{{Dubey} {et~al.}(2008){Dubey}, {Fisher}, {Graziani}, {Jordan},
+  {Lamb}, {Reid}, {Rich}, {Sheeler}, {Townsley}, \& {Weide}}]{Dubey2008}
+{Dubey}, A., {Fisher}, R., {Graziani}, C., {et~al.} 2008, in Astronomical
+  Society of the Pacific Conference Series, Vol. 385, Numerical Modeling of
+  Space Plasma Flows, ed. N.~V. {Pogorelov}, E.~{Audit}, \& G.~P. {Zank}, 145
+
+\bibitem[{{Ekstr{\"o}m} {et~al.}(2012){Ekstr{\"o}m}, {Georgy}, {Eggenberger},
+  {Meynet}, {Mowlavi}, {Wyttenbach}, {Granada}, {Decressin}, {Hirschi},
+  {Frischknecht}, {Charbonnel}, \& {Maeder}}]{Ekstrom2012}
+{Ekstr{\"o}m}, S., {Georgy}, C., {Eggenberger}, P., {et~al.} 2012, \aap, 537,
+  A146
+
+\bibitem[{{Federrath} {et~al.}(2010){Federrath}, {Banerjee}, {Clark}, \&
+  {Klessen}}]{Federrath2010}
+{Federrath}, C., {Banerjee}, R., {Clark}, P.~C., \& {Klessen}, R.~S. 2010,
+  \apj, 713, 269
+
+\bibitem[{{Fryxell} {et~al.}(2000){Fryxell}, {Olson}, {Ricker}, {Timmes},
+  {Zingale}, {Lamb}, {MacNeice}, {Rosner}, {Truran}, \& {Tufo}}]{Flash}
+{Fryxell}, B., {Olson}, K., {Ricker}, P., {et~al.} 2000, \apjs, 131, 273
+
+\bibitem[{{Georgy} {et~al.}(2013){Georgy}, {Ekstr{\"o}m}, {Eggenberger},
+  {Meynet}, {Haemmerl{\'e}}, {Maeder}, {Granada}, {Groh}, {Hirschi}, {Mowlavi},
+  {Yusof}, {Charbonnel}, {Decressin}, \& {Barblan}}]{Georgy2013}
+{Georgy}, C., {Ekstr{\"o}m}, S., {Eggenberger}, P., {et~al.} 2013, \aap, 558,
+  A103
+
+\bibitem[{{Georgy} {et~al.}(2012){Georgy}, {Ekstr{\"o}m}, {Meynet}, {Massey},
+  {Levesque}, {Hirschi}, {Eggenberger}, \& {Maeder}}]{Georgy2012}
+{Georgy}, C., {Ekstr{\"o}m}, S., {Meynet}, G., {et~al.} 2012, \aap, 542, A29
+
+\bibitem[{{Girichidis} {et~al.}(2011){Girichidis}, {Federrath}, {Banerjee}, \&
+  {Klessen}}]{Girichidis2011}
+{Girichidis}, P., {Federrath}, C., {Banerjee}, R., \& {Klessen}, R.~S. 2011,
+  \mnras, 413, 2741
+
+\bibitem[{{Glover} {et~al.}(2010){Glover}, {Federrath}, {Mac Low}, \&
+  {Klessen}}]{Glover2010}
+{Glover}, S.~C.~O., {Federrath}, C., {Mac Low}, M.-M., \& {Klessen}, R.~S.
+  2010, \mnras, 404, 2
+
+\bibitem[{{Glover} \& {Mac Low}(2007)}]{Gover&MacLow2007}
+{Glover}, S.~C.~O. \& {Mac Low}, M.-M. 2007, \apjs, 169, 239
+
+\bibitem[{{Hill} {et~al.}(2012){Hill}, {Joung}, {Mac Low}, {Benjamin},
+  {Haffner}, {Klingenberg}, \& {Waagan}}]{Hill2012}
+{Hill}, A.~S., {Joung}, M.~R., {Mac Low}, M.-M., {et~al.} 2012, \apj, 750, 104
+
+\bibitem[{{Joung} \& {Mac Low}(2006)}]{JoungMacLow2006}
+{Joung}, M.~K.~R. \& {Mac Low}, M.-M. 2006, \apj, 653, 1266
+
+\bibitem[{{Joung} {et~al.}(2012){Joung}, {Bryan}, \& {Putman}}]{Joung2012}
+{Joung}, M.~R., {Bryan}, G.~L., \& {Putman}, M.~E. 2012, \apj, 745, 148
+
+\bibitem[{{Joung} {et~al.}(2009){Joung}, {Mac Low}, \& {Bryan}}]{Joung2009}
+{Joung}, M.~R., {Mac Low}, M.-M., \& {Bryan}, G.~L. 2009, \apj, 704, 137
+
+\bibitem[{{Kuijken} \& {Gilmore}(1989)}]{Kuijken&Gilmore1989}
+{Kuijken}, K. \& {Gilmore}, G. 1989, \mnras, 239, 571
+
+\bibitem[{{Navarro} {et~al.}(1996){Navarro}, {Frenk}, \& {White}}]{NFW}
+{Navarro}, J.~F., {Frenk}, C.~S., \& {White}, S.~D.~M. 1996, \apj, 462, 563
+
+\bibitem[{{Parravano} {et~al.}(2003){Parravano}, {Hollenbach}, \&
+  {McKee}}]{Parravano2003}
+{Parravano}, A., {Hollenbach}, D.~J., \& {McKee}, C.~F. 2003, \apj, 584, 797
+
+\bibitem[{{Peters} {et~al.}(2010){Peters}, {Banerjee}, {Klessen}, {Mac Low},
+  {Galv{\'a}n-Madrid}, \& {Keto}}]{Peters2010}
+{Peters}, T., {Banerjee}, R., {Klessen}, R.~S., {et~al.} 2010, \apj, 711, 1017
+
+\bibitem[{{Sutherland} \& {Dopita}(1993)}]{Sutherland&Dopita1993}
+{Sutherland}, R.~S. \& {Dopita}, M.~A. 1993, \apjs, 88, 253
+
+\bibitem[{{Sutter} \& {Ricker}(2012)}]{Sutter&Ricker2012}
+{Sutter}, P.~M. \& {Ricker}, P.~M. 2012, \apj, 759, 92
+
+\bibitem[{{Waagan} {et~al.}(2011){Waagan}, {Federrath}, \&
+  {Klingenberg}}]{Waagan2011}
+{Waagan}, K., {Federrath}, C., \& {Klingenberg}, C. 2011, Journal of
+  Computational Physics, 230, 3331
+
+\bibitem[{{Wise} \& {Abel}(2011)}]{Wise&Abel2011}
+{Wise}, J.~H. \& {Abel}, T. 2011, \mnras, 414, 3458
+
+\bibitem[{{Wolfire} {et~al.}(1995){Wolfire}, {Hollenbach}, {McKee}, {Tielens},
+  \& {Bakes}}]{Wolfire1995}
+{Wolfire}, M.~G., {Hollenbach}, D., {McKee}, C.~F., {Tielens}, A.~G.~G.~M., \&
+  {Bakes}, E.~L.~O. 1995, \apj, 443, 152
+
+\bibitem[{{Wolfire} {et~al.}(2003){Wolfire}, {McKee}, {Hollenbach}, \&
+  {Tielens}}]{Wolfire2003}
+{Wolfire}, M.~G., {McKee}, C.~F., {Hollenbach}, D., \& {Tielens}, A.~G.~G.~M.
+  2003, \apj, 587, 278
+
+\end{thebibliography}
